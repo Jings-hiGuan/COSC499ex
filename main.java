@@ -23,7 +23,7 @@ public class main {
 
         insertionSort(array);//sorting array using insertion sort    
            
-        System.out.println("After Sorted:");    
+        System.out.println("After insertion sort:");    
         for(int i:array){    
             System.out.print(i+" ");    
         }    
