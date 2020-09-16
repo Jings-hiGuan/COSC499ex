@@ -67,7 +67,7 @@ merge(arr, beg, mid, end);
         main ob = new main();  
         ob.sort(array, 0, array.length-1);  
   
-        System.out.println("\nSorted array");  
+        System.out.println("\nMerge Sorted array");  
         for(int i =0; i<array.length;i++){  
             System.out.print(array[i]+" ");
         }  
